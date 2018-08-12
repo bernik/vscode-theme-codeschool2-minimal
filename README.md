@@ -1,7 +1,9 @@
 # CodeSchool2 Minimal 
 
 A dark theme with minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com).
-Philosophicaly inspired by [Alabaster Theme](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) by [tonsky](https://github.com/tonsky).
+
+Philosophicaly inspired by [Alabaster Theme](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster).
+
 Colors inspired by CodeSchool TextMate theme from [AstonJ blog](http://astonj.com/tech/rails-textmate-themes/).
 
 ## Screenshots 
