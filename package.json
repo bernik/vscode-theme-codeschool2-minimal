@@ -1,0 +1,29 @@
+{
+    "name": "theme-codeschool2-minimal",
+    "displayName": "CodeSchool2 Minimal Theme",
+    "description": "Minimalistic dark theme inspired by CodeSchool2 and Alabaster Themes",
+    "version": "0.1.0",
+    "publisher": "bernik",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bernik/theme-codeschool2-minimal.git"
+
+    },
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodeSchool2 Minimal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CodeSchool2 Minimal-color-theme.json"
+            }
+        ]
+    }
+}
