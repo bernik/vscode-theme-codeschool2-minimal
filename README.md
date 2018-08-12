@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "old-codeschool"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# CodeSchool2 Minimal 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A dark theme with minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com).
+Philosophicaly inspired by [Alabaster Theme](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) by [tonsky](https://github.com/tonsky).
+Colors inspired by CodeSchool TextMate theme from [AstonJ blog](http://astonj.com/tech/rails-textmate-themes/).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots 
 
-**Enjoy!**
+![Screenshot](https://raw.githubusercontent.com/bernik/vscode-theme-codeschool2-minimal/master/images/screenshot-clj.png)
+
+![Screenshot](https://raw.githubusercontent.com/bernik/vscode-theme-codeschool2-minimal/master/images/screenshot-php.png)
+
+## Install
+
+1. Go to `Extensions`
+2. Search for `codeschool2 minimal`
+3. Install
+4. Restart Visual Studio Code (or click `Reload window`)
+5. Go to `Preferences → Color Theme` and choose `CodeSchool2 Minimal`
+
+## License
+
+[MIT License](https://github.com/bernik/vscode-theme-codeschool2-minimal/blob/master/LICENSE)
